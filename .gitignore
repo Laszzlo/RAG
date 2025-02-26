@@ -2,3 +2,4 @@
 volumes
 *.yml
 .DS_Store
+.log
